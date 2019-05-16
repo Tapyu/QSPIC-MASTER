@@ -12,3 +12,5 @@ https://produto.mercadolivre.com.br/MLB-1064229907-codigos-exemplos-de-pic-mikro
 
 Manual Guide of QSPIC40A (This repository is for QSPIC40B, but maybe there are some importants similar features):  
 http://www.qsptec.com/imagens/Manual%20QSPIC40.pdf
+
+Modificando README pelo prompt de comando
